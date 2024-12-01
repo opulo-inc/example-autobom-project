@@ -15,7 +15,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         lfs: true
-        path: repo
 
     - name: Run Autobom
       uses: opulo-inc/autobom@main
