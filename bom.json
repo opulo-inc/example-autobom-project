@@ -1,0 +1,23 @@
+{
+  "name": "LumenPnP",
+  "version": "v3.2.2",
+  "parts": [
+    {
+      "name": "cartridge-clamp",
+      "quantity": 2,
+      "type": "mcad",
+      "optional": false,
+      "source": "https://opulo.io",
+      "notes": "very cool part wow"
+    },
+    {
+      "name": "lightPixel",
+      "quantity": 1,
+      "type": "ecad",
+      "optional": false,
+      "source": "https://opulo.io",
+      "notes": "a very funky pcb"
+    }
+    
+  ]
+}
